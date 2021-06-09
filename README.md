@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm Manish Kumar Singh</h2>
 
-Striving to maintain the perfect balance between `It doesn't work...! Why?` vs `It works...! Why?`.
+I'm currently working as an Intern at CadenceIQ. I am working on some side projects and learning cloud.
 
 <br />
 
